@@ -8,6 +8,6 @@ baseurl: ''
 encoding: utf-8
 markdown: kramdown
 permalink: pretty
-exclude: [old]
+exclude: ['_assets', 'node_modules']
 
 url: http://labs.mayday.us

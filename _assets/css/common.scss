@@ -21,7 +21,7 @@ body {
   background-color: #000
 }
 .navbar-brand {
-  background: transparent url('/images/mayday-pac-logo.png') no-repeat 0 0;
+  background: transparent image-url('mayday-pac-logo.png') no-repeat 0 0;
   background-size: cover;
   width: 272px;
   height: 87px;
@@ -43,13 +43,13 @@ body {
   background-position: 0 -10px;
 }
 .navbar-social a.social.facebook-share {
-  background-image: url('/images/share-facebook.png')
+  background-image: image-url('share-facebook.png')
 }
 .navbar-social a.social.twitter-share {
-  background-image: url('/images/share-twitter.png')
+  background-image: image-url('share-twitter.png')
 }
 .navbar-social a.social.email-share {
-  background-image: url('/images/share-email.png')
+  background-image: image-url('share-email.png')
 }
 .navbar-primary {
   padding-left: 272px;
@@ -160,7 +160,7 @@ footer {
   text-transform: uppercase;
 }
 .donate-wrap a.ir {
-  background: transparent url('/images/btn-donate.png') center center no-repeat;
+  background: transparent image-url('btn-donate.png') center center no-repeat;
   width: 289px;
   height: 47px;
   display: block;
@@ -174,10 +174,10 @@ footer {
   margin-left: 10px;
 }
 .social-link.facebook {
-  background-image: url('/images/link-facebook.png');
+  background-image: image-url('link-facebook.png');
 }
 .social-link.twitter {
-  background-image: url('/images/link-twitter.png');
+  background-image: image-url('link-twitter.png');
 }
 /* END FOOTER SECTION */
 
