@@ -1,0 +1,19 @@
+# Site settings
+title: Mayday Labs
+email: labs@mayone.us
+description: "MAYDAY.US - A Crowdfunded, Kickstarted SuperPAC to end all SuperPACs"
+baseurl: ''
+
+# Build settings
+encoding: utf-8
+markdown: kramdown
+permalink: pretty
+exclude: [old]
+
+url: http://labs.mayday.us
+
+jekyll-press:
+  exclude: 'atom.xml'
+  js_options: {}
+  css_options: {}
+  html_options: {}
