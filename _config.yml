@@ -11,9 +11,3 @@ permalink: pretty
 exclude: [old]
 
 url: http://labs.mayday.us
-
-jekyll-press:
-  exclude: 'atom.xml'
-  js_options: {}
-  css_options: {}
-  html_options: {}
